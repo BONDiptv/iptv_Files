@@ -799,43 +799,52 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueANIMALPLANET.m3u8
 
 
 ########################################
-Cinema 12/12/2024
+Cinema 24/12/2024
 ########################################
 
 
 
-#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5376/202410251408058Ebe.jpg" group-title="" ,เวน่อม: มหาศึกอสูรอหังการ Venom: The Last Dance (2024)
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5341/20241006000113SUiK.jpg" group-title="หนังใหม่-2024" ,โจ๊กเกอร์ โฟลีย์ อา เดอ (2024)
+https://movie.server-cdn-streaming.com/api/uploads/movie/5341/video/20179/hls/movie.m3u8
+
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5334/20240927141412Hlet.jpg" group-title="หนังใหม่-2024" ,ตาคลี เจเนซิส (2024)
+https://movie.server-cdn-streaming.com/api/uploads/movie/5334/video/20148/hls/movie.m3u8
+
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5388/202411092058207yec.jpg" group-title="หนังใหม่-2024" ,เรด วัน Red One (2024)
+https://movie.server-cdn-streaming.com/api/uploads/movie/5388/video/20162/hls/movie.m3u8
+
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5376/202410251408058Ebe.jpg" group-title="หนังใหม่-2024" ,เวน่อม: มหาศึกอสูรอหังการ Venom: The Last Dance (2024)
 https://movie.server-cdn-streaming.com/api/uploads/movie/5376/video/20125/hls/movie.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/12/That-Christmas-2024-คริสต์มาสนั้น-187x269.png" group-title="" ,คริสต์มาสนั้น That Christmas (2024)
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/12/That-Christmas-2024-คริสต์มาสนั้น-187x269.png" group-title="หนังใหม่-2024" ,คริสต์มาสนั้น That Christmas (2024)
 https://main.24playerhd.com/newplaylist/4825aecdb659defce860491d/4825aecdb659defce860491d.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/12/The-Snow-Sister-เดอะ-สโนว์-ซิสเตอร์-2024-187x269.jpg" group-title="" ,เดอะ สโนว์ ซิสเตอร์ The Snow Sister (2024)
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/12/The-Snow-Sister-เดอะ-สโนว์-ซิสเตอร์-2024-187x269.jpg" group-title="หนังใหม่-2024" ,เดอะ สโนว์ ซิสเตอร์ The Snow Sister (2024)
 https://main.24playerhd.com/newplaylist/ee271222a002d8a032172288/ee271222a002d8a032172288.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/12/Mononoke-the-Movie-The-Phantom-in-the-Rain-โมโนโนเกะ-เดอะ-มูฟวี่-ปีศาจในสายฝน-2024-187x269.jpg" group-title="" ,โมโนโนเกะ เดอะ มูฟวี่ ปีศาจในสายฝน Mononoke the Movie The Phantom in the Rain (2024)
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/12/Mononoke-the-Movie-The-Phantom-in-the-Rain-โมโนโนเกะ-เดอะ-มูฟวี่-ปีศาจในสายฝน-2024-187x269.jpg" group-title="หนังใหม่-2024" ,โมโนโนเกะ เดอะ มูฟวี่ ปีศาจในสายฝน Mononoke the Movie The Phantom in the Rain (2024)
 https://main.24playerhd.com/newplaylist/849dc714e660afe2e4d0fca1/849dc714e660afe2e4d0fca1.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/12/อำนาจ-ศรัทธา-อนาคต-Breaking-the-Cycle-2024-187x269.jpg" group-title="" ,อำนาจ ศรัทธา อนาคต Breaking the Cycle (2024)
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/12/อำนาจ-ศรัทธา-อนาคต-Breaking-the-Cycle-2024-187x269.jpg" group-title="หนังใหม่-2024" ,อำนาจ ศรัทธา อนาคต Breaking the Cycle (2024)
 https://main.24playerhd.com/newplaylist/d5889decbd786d4f2bca1d70/d5889decbd786d4f2bca1d70.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/11/Spellbound-ผจญภัยแดนต้องสาป-2024-187x269.jpg" group-title="" ,ผจญภัยแดนต้องสาป Spellbound (2024)
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/11/Spellbound-ผจญภัยแดนต้องสาป-2024-187x269.jpg" group-title="หนังใหม่-2024" ,ผจญภัยแดนต้องสาป Spellbound (2024)
 https://main.24playerhd.com/newplaylist/00050cca811fac21a2c52e11/00050cca811fac21a2c52e11.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/08/Twilight-of-the-Warriors-Walled-In-2024-เมืองพญายม-ปิดบัญชียมบาล-187x269.jpg" group-title="" ,เมืองพญายม ปิดบัญชียมบาล Twilight of the Warriors Walled In (2024)
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/08/Twilight-of-the-Warriors-Walled-In-2024-เมืองพญายม-ปิดบัญชียมบาล-187x269.jpg" group-title="หนังใหม่-2024" ,เมืองพญายม ปิดบัญชียมบาล Twilight of the Warriors Walled In (2024)
 https://baxplay.com/hls/38acbcf4-474f-4479-8d84-4a50971a8f0a/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/11/The-Cursed-Land-2024-แดนสาป-187x269.png" group-title="" ,แดนสาป The Cursed Land (2024)
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/11/The-Cursed-Land-2024-แดนสาป-187x269.png" group-title="หนังใหม่-2024" ,แดนสาป The Cursed Land (2024)
 https://main.24playerhd.com/newplaylist/fa689eda0ca1c83768b30cf3/fa689eda0ca1c83768b30cf3.m3u8
 
-#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5229/202407171156303i72.jpg" group-title="" ,เดดพูล & วูล์ฟเวอรีน Deadpool & Wolverine (2024)
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5229/202407171156303i72.jpg" group-title="หนังใหม่-2024" ,เดดพูล & วูล์ฟเวอรีน Deadpool & Wolverine (2024)
 https://movie.server-cdn-streaming.com/api/uploads/movie/5229/video/19928/hls/movie.m3u8
 
-#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5335/202409281652537ett.jpg" group-title="" ,Transformers One ทรานส์ฟอร์เมอร์ส 1 (2024)
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5335/202409281652537ett.jpg" group-title="หนังใหม่-2024" ,Transformers One ทรานส์ฟอร์เมอร์ส 1 (2024)
 https://movie.server-cdn-streaming.com/api/uploads/movie/5335/video/19935/hls/movie.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/11/Look-Back-ลุคแบ็ค-2024-187x269.jpg" group-title="" ,ลุคแบ็ค Look Back (2024)
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/11/Look-Back-ลุคแบ็ค-2024-187x269.jpg" group-title="หนังใหม่-2024" ,ลุคแบ็ค Look Back (2024)
 https://main.24playerhd.com/newplaylist/8654fb5a6a614ad46ee07384/8654fb5a6a614ad46ee07384.m3u8
