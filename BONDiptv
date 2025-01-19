@@ -806,9 +806,22 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueANIMALPLANET.m3u8
 
 
 ########################################
-Cinema 8/01/2024
+Cinema 19/01/2024
 ########################################
 
+
+
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5467/20250118154757cuYZ.jpg" group-title="หนังใหม่-2024" ,สายลับกลับมาลุย (2025)
+https://movie.server-cdn-streaming.com/api/uploads/movie/5467/video/20469/hls/movie.m3u8
+
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5466/20250118154212CPvQ.jpg" group-title="หนังใหม่-2024" ,เฮลล์บอย: นรกปราบนรก (2024)
+https://movie.server-cdn-streaming.com/api/uploads/movie/5466/video/20468/hls/movie.m3u8
+
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5462/20250116121629T4KY.jpg" group-title="หนังใหม่-2024" ,ปอบแม่ใหญ่แดง (2024)
+https://movie.server-cdn-streaming.com/api/uploads/movie/5462/video/20454/hls/movie.m3u8
+
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5427/20241219160915TKm3.jpg" group-title="หนังใหม่-2024" ,เครเว่น เดอะ ฮันเตอร์ (2024)
+https://movie.server-cdn-streaming.com/api/uploads/movie/5427/video/20455/hls/movie.m3u8
 
 
 
