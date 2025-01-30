@@ -148,95 +148,17 @@ https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8
 
 
 #############################################
-LIVE sport  (28/10/67)
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PPV| MotoGP: Heli Cam" tvg-logo="https://lo1.in/it/mtgp.png" group-title="MOTOGP",PPV| MotoGP: Heli Cam
-http://995228974412609059.ofnm1026.xyz:80/live/rober0316H/Adpawkdme121/609059.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ MOTOGP HEVC" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgr4vryXh-t1bDeILZE8XeZgtQ_C37tWgQa4js6unC2y9yVdooOZK3W9ka7moeA-BUFRutHDFEGnRQbESA6BmCEy6OwNuSFMORawNpBlgrOvA.png" group-title="MOTOGP",FR: CANAL+ MOTOGP HEVC
-http://995228974412318204.ofnm1026.xyz:80/live/rober0316H/Adpawkdme121/318204.ts
-
-
-#EXTINF:-1 tvg-id="canalplusforuma1.fr" tvg-name="FR: CANAL+ MOTOGP FHD" tvg-logo="http://landiptv.vip:2095/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGYQ6XVkTPAkQYRiV67bgkJMIsicmw2OXwfZxh5d2Vy_uBIYAFvWE4T1dUWdaf-u1kc.png" group-title="MOTOGP",FR: CANAL+ MOTOGP FHD
-
-
-
-#EXTINF:-1 tvg-id="canalplusforuma1.fr" tvg-name="FR: CANAL+ MOTOGP FHD" tvg-logo="" group-title="MOTOGP",FR: CANAL+ MOTOGP FHD
-http://995228974412339004.ofnm1026.xyz:80/live/rober0316H/Adpawkdme121/339004.ts
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ MOTOGP SD" tvg-logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/mmotogp.png" group-title="MOTOGP",ES: M+ MOTOGP SD
-http://995228974412875976.ofnm1026.xyz:80/live/rober0316H/Adpawkdme121/875976.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ MOTOGP FHD" tvg-logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/mmotogp.png" group-title="MOTOGP",ES: M+ MOTOGP FHD
-http://995228974412889531.ofnm1026.xyz:80/live/rober0316H/Adpawkdme121/889531.ts
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ MOTOGP HD" tvg-logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/mmotogp.png" group-title="MOTOGP",ES: M+ MOTOGP HD
-http://995228974412906373.ofnm1026.xyz:80/live/rober0316H/Adpawkdme121/906373.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PPV| MotoGP: Main Race" tvg-logo="https://lo1.in/it/mtgp.png" group-title="MOTOGP",PPV| MotoGP: Main Race
-http://995228974412609058.ofnm1026.xyz:80/live/rober0316H/Adpawkdme121/609058.ts
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT MOTOGP UHD" tvg-logo="http://vodkom.com:25461/Logo/ITALIA/Sky_Sport_MotoGP_HD.png" group-title="MOTOGP",|IT| SKY SPORT MOTOGP UHD
-http://2.m3u.pro:88/02021900981829/JCCwEbvzbUhvq0r/193095
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT MOTOGP HD" tvg-logo="http://vodkom.com:25461/Logo/ITALIA/Sky_Sport_MotoGP_HD.png" group-title="MOTOGP",|IT| SKY SPORT MOTOGP HD
-http://2.m3u.pro:88/02021900981829/JCCwEbvzbUhvq0r/193130
-
-
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT MOTOGP VIP HD" tvg-logo="" group-title="MOTOGP",IT: SKY SPORT MOTOGP VIP HD
-http://702423174658951754.ofdgo121.xyz:80/live/rober0316H/Adpawkdme121/951754.ts
-
-#EXTINF:-1 tvg-id="Sky Sport MotoGP.it" tvg-name="IT: SKY SPORT MOTOGP HD" tvg-logo="" group-title="MOTOGP",IT: SKY SPORT MOTOGP HD
-http://702423174658972306.ofdgo121.xyz:80/live/rober0316H/Adpawkdme121/972306.ts
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="(IT) SKY SPORT MOTO GP HD Home-playtv" tvg-logo="" group-title="MOTOGP",(IT) SKY SPORT MOTO GP HD
-http://home-playtv.com:8080/dafuz94/PQFFE/554861
-
-#EXTINF:-1 tvg-id="" tvg-name="|IT| SKY SPORT MOTO GP HD Home-playtv" tvg-logo="" group-title="MOTOGP",|IT| SKY SPORT MOTO GP HD
-http://home-playtv.com:8080/dafuz94/PQFFE/554997
+LIVE sport MOTOGP  (30/01/68)
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports MotoGP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sky_Sport_MotoGP_-_Logo_2014.svg/1024px-Sky_Sport_MotoGP_-_Logo_2014.svg.png?20180810231924" group-title="MOTOGP",Sky Sports MotoGP
-#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium575/index.m3u8
+#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="IT - SKY SPORT MOTOGP UHD" tvg-logo="http://go4.pw/ITALY/skysportmotogp.png" group-title="MOTOGP",IT - SKY SPORT MOTOGP UHD
+http://samisat44.xyz:80/5XF88W5/A38UYQV/76641
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="Sky Sport MotoGP 4K by Gojek" tvg-name="SKY SPORT MOTOGP 4K HEVC H265 by Gojek" tvg-logo="http://alibaba.gotoplucky.com:23000/Loghi/Sky%20Sport%20MotoGP%20Full%20HD.png" group-title="MOTOGP",SKY SPORT MOTOGP 4K HEVC H265
-http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/6621.ts
-
-#EXTINF:-1 tvg-id="Sky Sport MotoGP Full HD by Gojek" tvg-name="SKY SPORT MOTOGP FULL HD by Gojek" tvg-logo="http://alibaba.gotoplucky.com:23000/Loghi/Sky%20Sport%20MotoGP%20Full%20HD.png" group-title="MOTOGP",SKY SPORT MOTOGP FULL HD
-http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/46.ts
-
-#EXTINF:-1 tvg-id="Sky Sport MotoGP HD by Gojek" tvg-name="SKY SPORT MOTOGP HD by Gojek" tvg-logo="http://alibaba.gotoplucky.com:23000/Loghi/Sky%20Sport%20MotoGP%20HD.png" group-title="MOTOGP",SKY SPORT MOTOGP HD
-http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/45.ts
-
-#EXTINF:-1 tvg-id="Sky Sport MotoGP by Gojek" tvg-name="SKY SPORT MOTOGP SD by Gojek" tvg-logo="http://alibaba.gotoplucky.com:23000/Loghi/Sky%20Sport%20MotoGP%20SD.png" group-title="MOTOGP",SKY SPORT MOTOGP SD
-http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/44.ts
-
-#EXTINF:-1 tvg-id="SkySportMotoGP.it by Gojek" tvg-name="SKY SPORT MOTOGP HD +1 by Gojek" tvg-logo="http://alibaba.gotoplucky.com:23000/images/8cac19fc7d888a2dda911243bbb2bbda.png" group-title="MOTOGP",SKY SPORT MOTOGP HD +1
-http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/5572.ts
-
-
+#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="IT - SKY SPORT MOTOGP HD" tvg-logo="http://go4.pw/ITALY/skysportmotogp.png" group-title="MOTOGP",IT - SKY SPORT MOTOGP HD
+http://samisat44.xyz:80/5XF88W5/A38UYQV/76680
 
 
 
