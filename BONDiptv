@@ -476,22 +476,16 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0152/DASH/V0152.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=2dbd90ab924541643ab59ab494b274bf&chunkHttps=true&tmid=B0003&tpbk=mpqXOUt8ZGZO5J82&rrt=1738418027&tmod=rfk&rsid=184acb09-19b1-4519-bc65-7a63ef9f009b&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=17385044268
 
 
-#EXTINF:-1 group-title="Kids & Documentary" tvg-logo="https://dookeela.live/uploads/1724166670.png" ,True Explore Life
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://playtvthai.github.io/m3u8/movie/trueexplife.m3u8
 
-#EXTINF:-1 group-title="Kids & Documentary" tvg-logo="https://dookeela.live/uploads/1724167268.png" ,True Explore Sci
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://playtvthai.github.io/m3u8/movie/trueexpsci.m3u8
+#EXTINF:-0 group-title="ช่องสารคดี" tvg-id="DOCTrueExpLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Explorer Life
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorelife.m3u8
 
-#EXTINF:-1 group-title="Kids & Documentary" tvg-logo="https://dookeela.live/uploads/1724166218.png" ,True Explore Wild
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://playtvthai.github.io/m3u8/movie/trueexpwild.m3u8
+#EXTINF:-0 group-title="ช่องสารคดี" tvg-id="DOCTrueExpSci.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp", True Explore Sci
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexploresci.m3u8
 
-#EXTINF:-1 group-title="Kids & Documentary" tvg-logo="https://dookeela.live/uploads/1705536821.png" ,สำรวจโลก
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0151/DASH/V0151.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=2dbd90ab924541643ab59ab494b274bf&chunkHttps=true&tmid=B0003&tpbk=mpqXOUt8ZGZO5J82&rrt=1738418027&tmod=rfk&rsid=184acb09-19b1-4519-bc65-7a63ef9f009b&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1738504426
+
+#EXTINF:-0 group-title="ช่องสารคดี" tvg-id="DOCTrueExpWild.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_original.png", True Explore Wild
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorewild.m3u8
 
 
 
