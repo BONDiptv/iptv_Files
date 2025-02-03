@@ -782,8 +782,11 @@ https://movie.server-cdn-streaming.com/api/uploads/movie/5467/video/20469/hls/mo
 ########################################
 
 
-#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5416/20241212120601LlYO.jpg" group-title="หนังใหม่-2024" ,มอาน่า 2 (2024)
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5416/20241212120601LlYO.jpg" group-title="หนังใหม่-2024" ,โมอาน่า 2 (2024)
 https://movie.server-cdn-streaming.com/api/uploads/movie/5416/video/20580/hls/movie.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/01/Moana-2016-โมอาน่า-ผจญภัยตำนานหมู่เกาะทะเลใต้-187x269.png" group-title="หนังใหม่-2024" ,โมอาน่า 1 (2016)
+https://main.24playerhd.com/newplaylist/35c26a382b545c3f1927251a/35c26a382b545c3f1927251a.m3u8
 
 
 
