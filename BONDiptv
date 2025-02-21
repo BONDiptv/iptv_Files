@@ -626,17 +626,37 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueANIMALPLANET.m3u8
 
 
 ########################################
-หนังใหม่-2025 21/01/2024 
+หนังใหม่-2024 21/02/2025 tongha-movie.com
+########################################
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/02/Pushpa-The-Rule-Part-2-2024-พุชป้า-กฎเหล็ก-187x269.png" group-title="หนังใหม่-2024" ,พุชป้า กฎเหล็ก Pushpa The Rule Part 2 (2024)
+https://main.24playerhd.com/newplaylist/d733ec4c18a6c9dc24ac86bb/d733ec4c18a6c9dc24ac86bb.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/02/Cuckoo-2024-187x269.png" group-title="หนังใหม่-2024" ,ลางหลอนหุบเขามรณะ Cuckoo (2024)
+https://main.24playerhd.com/newplaylist/cc23574924a5c1a0bc97fd83/cc23574924a5c1a0bc97fd83.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/02/Fangs-Fury-2024-สงครามหมาป่า-187x269.png" group-title="หนังใหม่-2024" ,สงครามหมาป่า Fangs & Fury (2024)
+https://main.24playerhd.com/newplaylist/f3f888d286ef4720cd67b75b/f3f888d286ef4720cd67b75b.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/02/Fangs-Fury-2024-สงครามหมาป่า-187x269.png" group-title="หนังใหม่-2024" ,ซุนหงอคง ราชาวานร Monkey King Fight Lion Camel (2024) 
+https://main.24playerhd.com/newplaylist/a402968ae8d16a072685f23f/a402968ae8d16a072685f23f.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/11/Wicked-Part-I-วิคเค็ด-2024-187x269.jpg" group-title="หนังใหม่-2024" ,วิคเค็ด Wicked Part I (2024) 
+https://main.24playerhd.com/newplaylist/820c4f1e1b93c3f32b1dd453/820c4f1e1b93c3f32b1dd453.m3u8
+
+
+
+
+########################################
+หนังใหม่-2025 20/02/2024 
 ########################################
 
 
-#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/01/The-Calendar-Killer-2025-คาเลนดาร์คิลเลอร์-วันสั่งตาย-187x269.png" group-title="หนังใหม่-2025" ,คาเลนดาร์คิลเลอร์ วันสั่งตาย (2025)
-https://main.24playerhd.com/newplaylist/1b5fd4d95c2691866e9c8db4/1b5fd4d95c2691866e9c8db4.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/02/My-Fault-London-2025-คำขอโทษ-ลอนดอน-187x269.png" group-title="หนังใหม่-2025" ,คำขอโทษ ลอนดอน My Fault London (2025)
+https://main.24playerhd.com/newplaylist/ede71f7f2b5355b656c09e35/ede71f7f2b5355b656c09e35.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5467/20250118154757cuYZ.jpg" group-title="หนังใหม่-2025" ,สายลับกลับมาลุย (2025)
-https://movie.server-cdn-streaming.com/api/uploads/movie/5467/video/20469/hls/movie.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/02/The-Love-Scam-2025-แผนรักฉุดใจ-187x269.png" group-title="หนังใหม่-2025" ,แผนรักฉุดใจ The Love Scam (2025)
+https://main.24playerhd.com/newplaylist/ac8e733d655c29689db4fdea/ac8e733d655c29689db4fdea.m3u8
 
 
 
@@ -717,9 +737,6 @@ Cinema 19/01/2024
 ########################################
 
 
-
-#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5467/20250118154757cuYZ.jpg" group-title="หนังใหม่-2024" ,สายลับกลับมาลุย (2025)
-https://movie.server-cdn-streaming.com/api/uploads/movie/5467/video/20469/hls/movie.m3u8
 
 #EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5466/20250118154212CPvQ.jpg" group-title="หนังใหม่-2024" ,เฮลล์บอย: นรกปราบนรก (2024)
 https://movie.server-cdn-streaming.com/api/uploads/movie/5466/video/20468/hls/movie.m3u8
